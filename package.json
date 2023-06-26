@@ -1,0 +1,19 @@
+{
+  "name": "cli-cms",
+  "version": "1.0.0",
+  "description": "Command line interface contentmanagement system",
+  "main": "index.js",
+  "scripts": {
+    "test": "N/A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrisesAverting/CLI-CMS.git"
+  },
+  "author": "Niccolo O'Leary-Tagiuri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrisesAverting/CLI-CMS/issues"
+  },
+  "homepage": "https://github.com/CrisesAverting/CLI-CMS#readme"
+}
