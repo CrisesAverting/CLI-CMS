@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/CrisesAverting/CLI-CMS/issues"
   },
-  "homepage": "https://github.com/CrisesAverting/CLI-CMS#readme"
+  "homepage": "https://github.com/CrisesAverting/CLI-CMS#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.4.2"
+  }
 }

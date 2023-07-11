@@ -9,17 +9,19 @@ VALUES
     INSERT INTO role(title, salary, department_id)
     VALUES
         -- enter employee role titles, salaries and department
+        ("boss", 500000, 1),
+        ("notBoss", 50000, 2);
     
 
     INSERT INTO role(first_name, last_name, role_id, manager_id)
     VALUES
     ("James", "Smith ",),
-    ("Michael", " Smith",)
-    ("Robert", "Smith",)
+    ("Michael", " Sith",)
+    ("Robert", "Oliver",)
     ("Maria", " Garcia",)
-    ("David", " Smith",) 
-    ("Maria", " Rodriguez",)
-    ("Mary", " Smith",)
-    ("Maria", " Hernandez",)
-    ("Maria", " Martinez",)
-    ("James", " Johnson",)
+    ("David", " Mitchell",) 
+    ("Marcus", " Rodriguez",)
+    ("Mary", " Mars",)
+    ("Macy", " Hernandez",)
+    ("Sophia", " Martinez",)
+    ("John", " Johnson",)
