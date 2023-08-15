@@ -18,6 +18,7 @@
   "homepage": "https://github.com/CrisesAverting/CLI-CMS#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "mysql2": "^3.4.2"
+    "mysql2": "^3.4.2",
+    "console.table": "0.10.0"
   }
 }
